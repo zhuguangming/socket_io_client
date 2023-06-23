@@ -13,6 +13,8 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/*local socket.io client */
+
 /**
  * The socket class for Socket.IO Client.
  */
